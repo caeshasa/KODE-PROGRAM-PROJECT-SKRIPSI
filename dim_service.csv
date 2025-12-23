@@ -1,0 +1,42 @@
+Service_Type,Product_Group,Service_ID
+Revenue,IP VPN,1
+-,IP Transit,2
+Revenue,IPLC,3
+-,Hubbing Voice,4
+-,Neutrafix,5
+-,Outgoing Voice,6
+Revenue,MANAGED NETWORK SERVICES,7
+Revenue,IP Transit,8
+-,A2P IRV,9
+-,Dialog MS Reaktif,10
+-,Value Added Services,11
+Unknown,Unknown,12
+Revenue,Telin Internet Security,13
+Revenue,IEPL,14
+-,NeuAPIX,15
+-,IPX Voice,16
+-,Telin Internet Security,17
+-,Outgoing Voice Internal,18
+-,Dialog MS Proactive,19
+Revenue,Cloud Connect,20
+-,Digital Infrastructure Proactive,21
+Revenue,CDN,22
+-,MVNO,23
+Revenue,Value Added Services,24
+-,International SMS,25
+-,IPX,26
+-,CDN,27
+Revenue,LOCAL CONNECTIVITY,28
+Revenue,VALUE ADDED SERVICES,29
+-,IP VPN,30
+-,IT Marketplace NTX Proactive,31
+Revenue,IPX,32
+-,Solution-Others,33
+Revenue,Extension Voice Services,34
+Revenue,DVD,35
+-,Extension Voice Services,36
+-,MVNE,37
+-,Unknown,38
+-,IPLC,39
+-,Incoming Voice,40
+-,Port Tunnel,41

@@ -1,0 +1,9 @@
+Status;Status_ID
+Closed;1
+Technical Closed;2
+Open;3
+Testing;4
+Notifying Customer;5
+Pending;6
+Open Supplier;7
+Awaiting Confirmation;8
